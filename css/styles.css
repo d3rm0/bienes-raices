@@ -101,7 +101,7 @@ h4 {
 }
 
 .boton-verde {
-    background-color: #00ff2a;
+    background-color: #069ef7;
 }
 
 
@@ -175,7 +175,7 @@ h4 {
 }
 
 .navegacion a:hover {
-    color: #00ff2a;
+    color: #069ef7;
 }
 
 
@@ -262,7 +262,7 @@ p {
 }
 
 .precio {
-    color: #00ff2a;
+    color: #069ef7;
     font-weight: 700;
 }
 
@@ -364,7 +364,7 @@ p {
     display: block;
     width: 15rem;
     height: .5rem;
-    background-color: #00ff2a;
+    background-color: #069ef7;
     margin-top: 1rem;
 }
 
@@ -376,7 +376,7 @@ p {
 /* testimoniales */
 
 .testimonial {
-    background-color: #0db128;
+    background-color: #069ef7;
     font-size: 2.4rem;
     padding: 2rem;
     color: #ffffff;
